@@ -1,9 +1,9 @@
 # Flights-Delay-Information-Dashboard
-
-  Dashboard: https://liuwenhui.shinyapps.io/dashboard_version/ <br/>
-  The Flights Delay Information Dashboard is a R shiny dashboard displaying delay flights information across airlines through the whole year of 2015.
+  Dashboard: https://liuwenhui.shinyapps.io/dashboard_version/
 
 ### About
+
+  The Flights Delay Information Dashboard is a R shiny dashboard displaying delay flights information across airlines through the whole year of 2015.<br/>
   Data source: Kaggle | https://www.kaggle.com/usdot/flight-delays/data <br/>
   Tool: R-shiny version 0.14.2
   
