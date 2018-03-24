@@ -1,4 +1,6 @@
 # Flights-Delay-Information-Dashboard
+
+  Dashboard: https://liuwenhui.shinyapps.io/dashboard_version/ <br/>
   The Flights Delay Information Dashboard is a R shiny dashboard displaying delay flights information across airlines through the whole year of 2015.
 
 ### About
